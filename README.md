@@ -20,7 +20,7 @@ The script automatically generates three outputs upon running:
 
 3.  **Live Animation:** A simple animation shows the toy swinging from its pivot point.
 
-    ![Live Animation of the Simulation](figures/live_animation.gif)
+    ![Live Animation of the Simulation](https://github.com/shredfwd/Self-Balancing-Toy/blob/main/figures/balancing%20animation.gif)
 
 ## 🚀 How to Run
 
