@@ -6,8 +6,6 @@ This repository contains a MATLAB script that simulates the nonlinear dynamics o
 
 The simulation solves the full nonlinear equation of motion for a simple pendulum using MATLAB's `ode45` solver. It's designed to analyze the system's behavior, particularly for large initial angles where linear approximations would be inaccurate.
 
-The key equation of motion solved is:
-$$ \ddot{\theta} = - \frac{b}{m}\dot{\theta} - \frac{g}{l}\sin(\theta) $$
 
 ## ✨ Features
 
