@@ -12,7 +12,7 @@ The script automatically generates three outputs upon running:
 
 1.  **Phase Space Plot:** Visualizes the relationship between the toy's angular displacement ($\theta$) and angular velocity ($\dot{\theta}$).
 
-    ![Phase Space Plot](figures/phase_space_plot.png)
+    ![Phase Space Plot](https://github.com/shredfwd/Self-Balancing-Toy/blob/main/figures/phase%20space%20plot.png)
 
 2.  **Energy Analysis:** Plots the Kinetic Energy, Potential Energy, and Total Mechanical Energy of the system over time.
 
