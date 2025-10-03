@@ -16,7 +16,7 @@ The script automatically generates three outputs upon running:
 
 2.  **Energy Analysis:** Plots the Kinetic Energy, Potential Energy, and Total Mechanical Energy of the system over time.
 
-    ![Energy Analysis Plot](figures/energy_analysis.png)
+    ![Energy Analysis Plot](https://github.com/shredfwd/Self-Balancing-Toy/blob/main/figures/Energy.png)
 
 3.  **Live Animation:** A simple animation shows the toy swinging from its pivot point.
 
